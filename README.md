@@ -1,2 +1,3 @@
-# DM2023-Lab2-master
-ISA5810 Data Mining Lab 2
+### The dataset we use in Lab2
+
+Dataset: [SemEval 2017 Task](https://competitions.codalab.org/competitions/16380)
